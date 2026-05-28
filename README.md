@@ -26,3 +26,9 @@ For usage examples you can see --help
 For another language for --help you can use --help-lang <LANG>
 
 Main languages is EN and RU
+
+Dependencies:
+- python 3.12 =<
+- ffmpeg
+
+Just run ``python pz_b42_true_music_cassette_builder.py``
