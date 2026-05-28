@@ -5,28 +5,21 @@ The script supports the same languages as the mod.
 Since the script was created for my file structure of the music folder, I recommend distributing the music approximately as follows:
 
 ```sh
-Disturbed Ghost 'Green day' Sabaton 'Sum 41' 'The Offspring'
+Disturbed Ghost
 
 Music/Disturbed:
 'Album - Asylum'  'Album - Immortalized'   'Album - Ten Thousand Fists' 'Album - The Sickness'
 'Album - Believe' 'Album - Indestructible' 'Album - The Lost Children'
 
-Music/Ghost:
-'Album - IMPERA' 'Album - Meliora (Deluxe Edition)' 'Album - Prequelle'
+'Music/Disturbed/Album - Asylum':
+'Another Way to Die.mp3'   Crucified.mp3 ISHFWILF.mp3 'Never Again.mp3' Sacrifice.mp3 'The Animal.mp3' Warrior.mp3
+ Asylum.mp3 Innocence.mp3 'My Child.mp3' Remnants.mp3  Serpentine.mp3  'The Infection.mp3'
 
-Music/Green day:
-'Album - 21st Century Breakdown' "Album - Greatest Hits： God's Favorite Band"
+'Music/Disturbed/Album - Believe':
+Awaken.mp3   Bound.mp3    Darkness.mp3 Intoxication.mp3 Mistress.mp3 Remember.mp3
+Believe.mp3  Breathe.mp3  Devour.mp3   Liberate.mp3	
 
-Music/Sabaton:
-'Album - Carolus Rex (English)' 'Album - Heroes'                  'Album - Legends'        'Album - The War to End All Wars'
-'Album - Coat of Arms'          'Album - Heroes of the Great War' 'Album - The Great War'  
-
-Music/Sum 41:
-'Album - 13 Voices'                                            'Album - Chuck'                     'Album - Underclass Hero'
-'Album - All The Good Sh＊＊. 14 Solid Gold Hits (2000-2008)'  'Album - Does This Look Infected？'  
-
-Music/The Offspring:
-'Album - Let The Bad Times Roll'
+etc...
 ```
 
 For usage examples you can see --help
