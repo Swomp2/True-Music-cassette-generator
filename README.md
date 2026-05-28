@@ -6,7 +6,7 @@ Since the script was created for my file structure of the music folder, I recomm
 
 In ~/Music or your music directory:
 ```sh
-Disturbed Ghost
+Disturbed, Ghost etc...
 |
 |-Music/Disturbed:
 |   'Album - Asylum'  'Album - Immortalized'   'Album - Ten Thousand Fists' 'Album - The Sickness'
