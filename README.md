@@ -34,3 +34,5 @@ Dependencies:
 - ffmpeg
 
 Just run ``python pz_b42_true_music_cassette_builder.py``
+
+This script nad been tested only on linux!! If you receive a bug just write it in issues
